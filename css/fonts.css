@@ -1,0 +1,28 @@
+@font-face{
+    font-family: Montserrat;
+    src: url(../fonts/Montserrat-ExtraBold.ttf);
+}
+@font-face{
+    font-family: Open;
+    src: url(../fonts/OpenSans-SemiBold.ttf);
+}
+@font-face{
+    font-family: Merriweather;
+    src: url(../fonts/Merriweather-Light.ttf);
+}
+@font-face{
+    font-family: Montserrat-Regular;
+    src: url(../fonts/Montserrat-Regular.ttf);
+}
+@font-face{
+    font-family:Raleway-Italic ;
+    src: url(../fonts/Raleway-Italic.ttf);
+}
+@font-face{
+    font-family: LexendDeca-Regular;
+    src: url(../fonts/LexendDeca-Regular.ttf);
+}
+@font-face{
+    font-family: Livvic-Regular;
+    src: url(../fonts/Livvic-Regular.ttf);
+}
